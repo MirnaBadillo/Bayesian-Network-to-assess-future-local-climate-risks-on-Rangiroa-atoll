@@ -4,7 +4,7 @@ The objective of this project is to share a program that builds a Bayesian Netwo
 This project consists of a series of scripts that should be executed as follows:
 
 1) Configure files paths: Run [1_Path_config](./1_Path_config.R) to set up the file pathways.
-2) Conditional Probability tables (CPTs) for all nodes are provided in the repertory CPT_BN_Rangiroa
+2) Conditional Probability tables (CPTs) for all nodes are provided in the CPT_BN_Rangiroa directory.
 3) Build the BN model and perform inference:  Run [BN_to_Assess_Future_Risk_to_Habitability_in_Rangiroa_Atoll](./BN_to_Assess_Future_Risk_to_Habitability_in_Rangiroa_Atoll.R)
    
    This BN model is applied to Rangiroa Atoll. The example queries provided in this project allow for risk assessment across the study islands and identification of severe risk conditions (inverse analysis).
